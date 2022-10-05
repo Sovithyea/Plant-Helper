@@ -1,0 +1,34 @@
+{
+    "Dashboard": "Dashboard",
+    "name": "Plant Helper",
+    "setting": "Setting",
+    "sign_out": "Sign out",
+    "Users" : "User",
+    "lang.en": "English",
+    "lang.km": "Khmer",
+    "powered_by" : "Powered By",
+    "Crop": "Crop",
+    "Disease": "Disease",
+    "Condition": "Condition",
+    "Category": "Category",
+    "Guide": "Guide",
+    "Activity": "Activity",
+    "comment": "Comment",
+    "app": {
+
+    },
+    "label": {
+        "profile": "Profile",
+        "change_password": "Change Password",
+        "last_name": "Last Name",
+        "first_name": "First Name",
+        "username": "Username",
+        "email": "Email",
+        "old_password": "Old Password",
+        "new_password": "New Password",
+        "confirm_password": "Confirm Password"
+    },
+    "button": {
+        "save_changes": "Save changes"
+    }
+}
